@@ -45,7 +45,7 @@ A simple and interactive web application that sorts an array of numbers using va
    ```
 2. **Accédez au répertoire du projet** :
    ```bash
-   cd JavaScriptTest-DrivenToolkitProject
+   cd NumberSorterProject
    ```
 
 --- 
