@@ -10,7 +10,7 @@ A simple and interactive web application that sorts an array of numbers using va
 
 ---
 
-## 🔗 [Live Demo](#) *(Add your live demo link here)*
+## 🔗 [Live Demo](https://elorf-lahcen.github.io/NumberSorterProject/)
 <div align="center">
     <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white" />
